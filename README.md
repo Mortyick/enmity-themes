@@ -1,5 +1,5 @@
 # enmity-themes
-Some of the themes i made for Enmity (basically betterdiscord/whateverelse for iOS) 
+Some of the shitty themes i made for Enmity (basically betterdiscord/whateverelse for iOS) 
 
 Created by iAmMortyickk#1181
 
