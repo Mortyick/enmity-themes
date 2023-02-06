@@ -1,0 +1,158 @@
+  {
+  "name": "HatsuneMiku",
+  "description": "Hatsune Miku!!.",
+  "version": "1.7",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#a7d2ed",
+      "#0f141f"
+    ],
+    "HEADER_SECONDARY": [
+      "#82a5bb",
+      "#3d4858"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#a7d2ed",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#82a5bb",
+      "#3d4858  "
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#adcce0",
+      "#1e1e38"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#445a87",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0f141f",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0f141f",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0f141f",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0a0d19",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#adcce0",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#17152d",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#17152d",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1a2838",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1a2838",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#b6b6b6",
+      "#0d182b"
+    ],
+    "TEXT_LINK": [
+      "#adcce0",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#0f0c23",
+      "#0a0d19"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#8ac74e",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#bebee3",
+    "PRIMARY_DARK_500": "#697eab",
+    "PRIMARY_DARK_600": "#0a0d19",
+    "PRIMARY_DARK_630": "#343843",
+    "PRIMARY_DARK_700": "#0a0d19",
+    "PRIMARY_DARK_800": "#0a0d19",
+    "BRAND_NEW": "#d3eeff",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#0a0d19"
+  },
+  "background": {
+    "blur": 0.9,
+    "url": "https://media.discordapp.net/attachments/1041868029191016461/1071656128649371668/iu.png",
+    "alpha": 1.0
+  }
+}
