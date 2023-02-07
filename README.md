@@ -30,7 +30,7 @@ Preview:<br>
 - - - -
 
 ## Dark Stars
-Some dark stars, reminds me of Chuck E Cheese, but in the dark.!<br>
+Some dark stars, reminds me of Chuck E Cheese, but in the dark!<br>
 <br>
 Copy this URL and add to Enmity:
 ```
