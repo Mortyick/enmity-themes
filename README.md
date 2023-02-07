@@ -26,3 +26,15 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/HatsuneMiku.json
 ```
 Preview:<br>
 ![](miku.png)
+
+- - - -
+
+## Dark Stars
+Some dark stars, reminds me of Chuck E Cheese, but in the dark.!<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/DarkStars.json
+```
+Preview:<br>
+![](starsinthedark.PNG)
