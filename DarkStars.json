@@ -1,0 +1,158 @@
+  {
+  "name": "DarkStars",
+  "description": "Some stars in the dark, reminds me of Chuck E Cheese, but in the dark.",
+  "version": "1.5",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#2c2c33"
+    ],
+    "HEADER_SECONDARY": [
+      "#ffffff",
+      "#3d4858"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#ffffff",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#ffffff",
+      "#3d4858  "
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#d6d6d6",
+      "#1e1e38"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#9a9a9a",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1b1b1b",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1b1b1b",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1b1b1b",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0c0c0c",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#d6d6d6",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#141414",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#141414",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1b1b1b",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1b1b1b",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#b6b6b6",
+      "#0d182b"
+    ],
+    "TEXT_LINK": [
+      "#d6d6d6",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#000000",
+      "#0c0c0c"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#ffffff",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#bebee3",
+    "PRIMARY_DARK_500": "#697eab",
+    "PRIMARY_DARK_600": "#0c0c0c",
+    "PRIMARY_DARK_630": "#343843",
+    "PRIMARY_DARK_700": "#0c0c0c",
+    "PRIMARY_DARK_800": "#0c0c0c",
+    "BRAND_NEW": "#242424",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#0c0c0c"
+  },
+  "background": {
+    "blur": 0.3,
+    "url": "https://media.discordapp.net/attachments/985316217353015296/1070935692152164392/IMG_3225.png",
+    "alpha": 1.0
+  }
+}
