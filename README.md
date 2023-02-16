@@ -38,3 +38,17 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/DarkStars.json
 ```
 Preview:<br>
 ![](starsinthedark.PNG)
+
+- - - -
+
+## City Vibes
+City Vibes, or not.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/CityVibes.json
+```
+Preview:<br>
+![](detroitians.png)
+
+- - - -
