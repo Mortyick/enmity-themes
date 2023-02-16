@@ -1,0 +1,158 @@
+{
+  "name": "CityVibes",
+  "description": "City vibes, or not.",
+  "version": "1.7",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#798aba",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#96a7d8",
+      "#604f4f"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#798aba",
+      "#c28282"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#96a7d8",
+      "#604f4f"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#6e7276",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#373e50",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#28343a",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#28343a",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#28343a",
+      "#f49b95"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1c2429",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#323f43",
+      "#c28282"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1b282c",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#1b282c",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#28343a",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#28343a",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#464e63",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#6e7276",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#32414b",
+      "#1f2e33"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#96a7d8",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#e3bebe",
+    "PRIMARY_DARK_500": "#343f5a",
+    "PRIMARY_DARK_600": "#1f2e33",
+    "PRIMARY_DARK_630": "#384343",
+    "PRIMARY_DARK_700": "#1f2e33",
+    "PRIMARY_DARK_800": "#1f2e33",
+    "BRAND_NEW": "#1c2e42",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#1f2e33"
+  },
+  "background": {
+    "blur": 1.5,
+    "url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp5633972.jpg&f=1&nofb=1&ipt=fe3e6e3d20303417c081c8ead7664af6a53cdbb30fc21bfdb80e441d32406d8e&ipo=images",
+    "alpha": 1.0
+  }
+}
