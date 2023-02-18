@@ -1,5 +1,5 @@
 # enmity-themes
-Some of the shitty themes i made for Enmity (basically betterdiscord/whateverelse for iOS) 
+Some of the shitty themes i made for Enmity (Discord Client for iOS) 
 
 Created by iAmMortyickk#1181
 
@@ -50,5 +50,17 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/CityVibes.json
 ```
 Preview:<br>
 ![](detroitians.PNG)
+
+- - - -
+
+## Black Night
+A black night.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/BlackNight.json
+```
+Preview:<br>
+![](blacknight.png)
 
 - - - -
