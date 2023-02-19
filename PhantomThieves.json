@@ -1,0 +1,158 @@
+{
+  "name": "PhantomThieves",
+  "description": "Phantom Thieves, on Enmity.",
+  "version": "1.1",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#e05050",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#ff5c5c",
+      "#604f4f"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#e05050",
+      "#c28282"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#ff5c5c",
+      "#604f4f"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#6e7276",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#373e50",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#212121",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#212121",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#212121",
+      "#f49b95"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1b1818",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#0f1315",
+      "#c28282"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1a1a1a",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#1a1a1a",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#212121",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#212121",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#990025",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#6e7276",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#181e21",
+      "#1a1a1a"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#ff5c5c",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#e3bebe",
+    "PRIMARY_DARK_500": "#343f5a",
+    "PRIMARY_DARK_600": "#1a1a1a",
+    "PRIMARY_DARK_630": "#384343",
+    "PRIMARY_DARK_700": "#1a1a1a",
+    "PRIMARY_DARK_800": "#1a1a1a",
+    "BRAND_NEW": "#2e2e2e",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#1a1a1a"
+  },
+  "background": {
+    "blur": 0.0,
+    "url": "https://media.discordapp.net/attachments/1028083402601152552/1076715527801683968/Phentom.png",
+    "alpha": 1.0
+  }
+}
