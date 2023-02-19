@@ -64,3 +64,15 @@ Preview:<br>
 ![](blacknight.png)
 
 - - - -
+
+## Phantom Thieves
+Phantom Thieves, on Enmity..<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/PhantomThieves.json
+```
+Preview:<br>
+![](phantomtrolls.png)
+
+- - - -
