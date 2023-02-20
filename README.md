@@ -76,3 +76,13 @@ Preview:<br>
 ![](phantomtrolls.png)
 
 - - - -
+
+## Kita (Bocchi The Rock)
+A Kita theme.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/Kita.json
+```
+Preview:<br>
+![](Kita.PNG)
