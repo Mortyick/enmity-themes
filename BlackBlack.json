@@ -1,0 +1,158 @@
+  {
+  "name": "BlackBlack",
+  "description": "No Light.",
+  "version": "1.4",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "HEADER_SECONDARY": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_NORMAL": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#000000",
+      "#000000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#000000",
+      "#000000  "
+    ],
+    "INTERACTIVE_HOVER": [
+      "#000000",
+      "#000000"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#000000",
+      "#000000"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(000, 000, 000, 0.00)",
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(000, 000, 000, 0.00)",
+      "hsla(0, 0%, 0%, 0.00)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(000, 000, 000, 0.00)",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(000, 000, 000, 0.00)",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0.00)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#000000",
+      "hsla(0, 0%, 0%, 0.0)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#000000",
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.0)",
+      "#000000"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#000000",
+      "#000000"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#000000",
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#000000",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#000000",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK_100": "#000000",
+    "PRIMARY_DARK_200": "#000000",
+    "PRIMARY_DARK_300": "#000000",
+    "PRIMARY_DARK_360": "#000000",
+    "PRIMARY_DARK_400": "#000000",
+    "PRIMARY_DARK_500": "#000000",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#000000",
+    "STATUS_RED": "#000000",
+    "STATUS_GREEN_600": "#000000",
+    "STATUS_YELLOW": "#000000"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://wallpapertag.com/wallpaper/full/7/5/3/152254-vertical-pure-black-wallpaper-1440x2560-large-resolution.jpg",
+    "alpha": 1.0
+  }
+}
