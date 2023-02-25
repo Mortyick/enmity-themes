@@ -86,3 +86,17 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/Kita.json
 ```
 Preview:<br>
 ![](Kita.PNG)
+
+- - - -
+
+## Violet
+Violet, and dark..<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/Violet.json
+```
+Preview:<br>
+![](violetbg.png)
+
+- - - -
