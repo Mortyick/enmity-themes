@@ -10,7 +10,7 @@ Rick and Morty on Enmity!<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/RickAndMorty.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/themes/RickAndMorty.json
 ```
 Preview:<br>
 ![](./background/rickandmaam.png)
