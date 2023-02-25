@@ -13,7 +13,7 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/RickAndMorty.json
 ```
 Preview:<br>
-![](rickandmaam.png)
+![](./background/rickandmaam.png)
 
 - - - -
 
@@ -25,7 +25,7 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/HatsuneMiku.json
 ```
 Preview:<br>
-![](miku.png)
+![](./background/miku.png)
 
 - - - -
 
@@ -37,7 +37,7 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/DarkStars.json
 ```
 Preview:<br>
-![](starsinthedark.PNG)
+![](./background/starsinthedark.PNG)
 
 - - - -
 
@@ -49,7 +49,7 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/CityVibes.json
 ```
 Preview:<br>
-![](detroitians.PNG)
+![](./background/detroitians.PNG)
 
 - - - -
 
@@ -61,7 +61,7 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/BlackNight.json
 ```
 Preview:<br>
-![](blacknight.png)
+![](./background/blacknight.png)
 
 - - - -
 
@@ -73,7 +73,7 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/PhantomThieves.json
 ```
 Preview:<br>
-![](phantomtrolls.png)
+![](./background/phantomtrolls.png)
 
 - - - -
 
@@ -85,7 +85,7 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/Kita.json
 ```
 Preview:<br>
-![](Kita.PNG)
+![](./background/Kita.PNG)
 
 - - - -
 
@@ -97,6 +97,6 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/Violet.json
 ```
 Preview:<br>
-![](violetbg.png)
+![](./background/violetbg.png)
 
 - - - -
