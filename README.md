@@ -90,7 +90,7 @@ Preview:<br>
 - - - -
 
 ## Violet
-Violet, and dark..<br>
+Violet, and dark.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
