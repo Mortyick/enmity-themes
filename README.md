@@ -10,7 +10,7 @@ Rick and Morty on Enmity!<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/themes/RickAndMorty.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/RickAndMorty.json
 ```
 Preview:<br>
 ![](./background/rickandmaam.png)
@@ -22,7 +22,7 @@ A Hatsune Miku theme for Enmity! (yes i really did make one) <br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/HatsuneMiku.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/HatsuneMiku.json
 ```
 Preview:<br>
 ![](./background/miku.png)
@@ -34,7 +34,7 @@ Some dark stars, reminds me of Chuck E Cheese, but in the dark!<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/DarkStars.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/DarkStars.json
 ```
 Preview:<br>
 ![](./background/starsinthedark.PNG)
@@ -46,7 +46,7 @@ City Vibes, or not.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/CityVibes.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/CityVibes.json
 ```
 Preview:<br>
 ![](./background/detroitians.PNG)
@@ -58,7 +58,7 @@ A black night.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/BlackNight.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/BlackNight.json
 ```
 Preview:<br>
 ![](./background/blacknight.png)
@@ -70,7 +70,7 @@ Phantom Thieves, on Enmity..<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/PhantomThieves.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/PhantomThieves.json
 ```
 Preview:<br>
 ![](./background/phantomtrolls.png)
@@ -82,7 +82,7 @@ A Kita theme.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/Kita.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Kita.json
 ```
 Preview:<br>
 ![](./background/Kita.PNG)
@@ -94,7 +94,7 @@ Violet, and dark.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/Violet.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Violet.json
 ```
 Preview:<br>
 ![](./background/violetbg.png)
