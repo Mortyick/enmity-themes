@@ -101,3 +101,15 @@ Preview:<br>
 ![](./background/violetbg.png)
 
 - - - -
+
+## LimeSpace
+Another space theme, with a bit of green.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/LimeSpace.json
+```
+Preview:<br>
+![](./background/limenmity.png)
+
+- - - -
