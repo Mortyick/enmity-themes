@@ -1,0 +1,158 @@
+  {
+  "name": "LimeSpace",
+  "description": "Another space theme, with a bit of green.",
+  "version": "1.2",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#47cf9c",
+      "#020e0e"
+    ],
+    "HEADER_SECONDARY": [
+      "#32a377",
+      "#3d4858"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#47cf9c",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#32a377",
+      "#3d4858"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#86dec0",
+      "#1e1e38"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#2d897a",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#020e0e",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#020e0e",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#020e0e",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#030909",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#86dec0",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#061417",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#061417",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#020d0f",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#020d0f",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#b6b6b6",
+      "#0d182b"
+    ],
+    "TEXT_LINK": [
+      "#86dec0",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#030909",
+      "#b0efbd"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#8ad099",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#bebee3",
+    "PRIMARY_DARK_500": "#697eab",
+    "PRIMARY_DARK_600": "#030909",
+    "PRIMARY_DARK_630": "#343843",
+    "PRIMARY_DARK_700": "#030909",
+    "PRIMARY_DARK_800": "#030909",
+    "BRAND_NEW": "#b0efbd",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#b0efbd"
+  },
+  "background": {
+    "blur": 0.2,
+    "url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.nK2I3nxqJP8sbKWmLNBozgHaNJ%26pid%3DApi&f=1&ipt=5fad336397f0067c4062cb1635b7487ff1f3595c39a5b31d3e610364f619e74b&ipo=images",
+    "alpha": 1.0
+  }
+}
