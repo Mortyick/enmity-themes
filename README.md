@@ -113,3 +113,15 @@ Preview:<br>
 ![](./background/limenmity.png)
 
 - - - -
+
+## DawnSpace
+A more blue space theme.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/DawnSpace.json
+```
+Preview:<br>
+![](./background/Gru.PNG)
+
+- - - -
