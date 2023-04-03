@@ -1,0 +1,158 @@
+  {
+  "name": "NotAnotherAnimeTheme",
+  "description": "A port of NotAnotherAnimeTheme for Enmity.",
+  "version": "1.2",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#43b581",
+      "#23232d"
+    ],
+    "HEADER_SECONDARY": [
+      "#f0f0f0",
+      "#3d4858"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#43b581",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#f0f0f0",
+      "#3d4858"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#359b6c",
+      "#1e1e38"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#3f946d",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0a0c10",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0a0c10",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0a0c10",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#14161b",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#58a180",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#121212",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#121212",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0a0c10",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0a0c10",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#b6b6b6",
+      "#475d77"
+    ],
+    "TEXT_LINK": [
+      "#418b56",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#0f0c23",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#f0f0f0",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#bebee3",
+    "PRIMARY_DARK_500": "#697eab",
+    "PRIMARY_DARK_600": "#17191b",
+    "PRIMARY_DARK_630": "#131519",
+    "PRIMARY_DARK_700": "#1a1b21",
+    "PRIMARY_DARK_800": "#13151a",
+    "BRAND_NEW": "#8bde86",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#13151a"
+  },
+  "background": {
+    "blur": 0.2,
+    "url": "https://media.discordapp.net/attachments/993383816167170120/1092462298637017229/animebg.png",
+    "alpha": 1.0
+  }
+}
