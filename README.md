@@ -131,10 +131,22 @@ A port of NotAnotherAnimeTheme on Enmity.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/LimeSpace.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/NotAnotherAnimeTheme.json
 ```
 Preview:<br>
 ![](./background/anime.png)
+
+- - - -
+
+## RoyalUndella
+A somewhat pink and blue theme, with an anime girl on top of it.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/RoyalUndella.json
+```
+Preview:<br>
+![](./background/preview.PNG)
 
 - - - -
 
