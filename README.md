@@ -2,7 +2,7 @@
 Some of the shitty themes i made for Enmity (Discord Client for iOS) 
 The only good theme on here (imo) is probably BlackNight, but if you're into the other ones, go ahead lol
 
-Created by iAmMortyickk#1181
+Created by mortyick.1181
 
 - - - -
 
