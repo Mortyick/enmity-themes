@@ -98,7 +98,7 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Violet.json
 ```
 Preview:<br>
-![](./background/violetbg2.png)
+![](./background/violetbg2.PNG)
 
 - - - -
 
