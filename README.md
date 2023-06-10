@@ -150,3 +150,14 @@ Preview:<br>
 
 - - - -
 
+## Firelights
+Fireworks at night! Or not.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Firelights.json
+```
+Preview:<br>
+![](./background/YouGotAFriendInYou.png)
+
+- - - -
