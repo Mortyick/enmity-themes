@@ -1,9 +1,11 @@
 # enmity-themes
 Some of the shitty themes i made for Enmity (Discord Client for iOS) 
 
-None of these themes work on light mode (because fuck light mode), some may be broken on some newer version or older idfk
+None of these themes work on light mode (because fuck light mode), some may be broken on some versions
 
 Use what you like, fork this shit if you want, do whatever with it.
+
+(don't mind the attitude)
 
 Created by mortyick
 
