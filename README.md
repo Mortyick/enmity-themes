@@ -179,3 +179,14 @@ Preview:<br>
 
 - - - -
 
+## CyberpunkSHrine
+A cyberpunk-ish shrine, or not.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/CyberpunkShrine.json
+```
+Preview:<br>
+![](./background/themepreview.png)
+
+- - - -
