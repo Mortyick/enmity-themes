@@ -1,7 +1,7 @@
   {
   "name": "CyberpunkShrine",
   "description": "Cyberpunk-ish shrine, or not.",
-  "version": "2.9",
+  "version": "2.9.1",
   "authors": [
     {
       "name": "mortyick",
@@ -140,7 +140,7 @@
     "PRIMARY_DARK_500": "#697eab",
     "PRIMARY_DARK_600": "#101622",
     "PRIMARY_DARK_630": "#111b31",
-    "PRIMARY_DARK_700": "#1a1b21",
+    "PRIMARY_DARK_700": "#0e1628",
     "PRIMARY_DARK_800": "#131823",
     "BRAND_NEW": "#f05fae",
     "STATUS_RED": "#c18ea4",
