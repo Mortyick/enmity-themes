@@ -190,3 +190,15 @@ Preview:<br>
 ![](./background/themepreview.png)
 
 - - - -
+
+## StarNight
+Stars, in the sky, or something..<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/StartNight.json
+```
+Preview:<br>
+![](./background/IDontCare.png)
+
+- - - -
