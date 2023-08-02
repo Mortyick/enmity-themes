@@ -1,0 +1,158 @@
+  {
+  "name": "StarNight",
+  "description": "Stars, in the sky, or something.",
+  "version": "1.3",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#0f8699",
+      "#23232d"
+    ],
+    "HEADER_SECONDARY": [
+      "#bb202d",
+      "#3d4858"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#0f8699",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#bb202d",
+      "#3d4858"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#2fa1b3",
+      "#1e1e38"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#262626",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1a1a1a",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1a1a1a",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#222222",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#c13642",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#262626",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#262626",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1a1a1a",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#545454",
+      "#475d77"
+    ],
+    "TEXT_LINK": [
+      "#cb323f",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#1a1717",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#bb202d",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#4d8fbb",
+    "PRIMARY_DARK_500": "#328acb",
+    "PRIMARY_DARK_600": "#222222",
+    "PRIMARY_DARK_630": "#1f1d1d",
+    "PRIMARY_DARK_700": "#1f1f1f",
+    "PRIMARY_DARK_800": "#111111",
+    "BRAND_NEW": "#cb323f",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#c43541",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#13151a"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://media.discordapp.net/attachments/1087507373704368258/1134609681818595388/AnotherEnmitUBG.jpg",
+    "alpha": 1.0
+  }
+}
