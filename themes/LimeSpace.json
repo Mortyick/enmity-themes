@@ -98,11 +98,11 @@
       "hsla(240, 7.7%, 2.5%, 0.08)"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#2a1858",
+      "transparent",
       "hsla(217, 7.6%, 33.5%, 0.3)"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "transparent",
+      "2a1858",
       "hsla(0, 0%, 0%, 0)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
@@ -131,15 +131,15 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK": "#020e0e",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
     "PRIMARY_DARK_300": "#8ad099",
     "PRIMARY_DARK_360": "#fcfdfc",
-    "PRIMARY_DARK_400": "#bebee3",
-    "PRIMARY_DARK_500": "#697eab",
+    "PRIMARY_DARK_400": "#bee3c6",
+    "PRIMARY_DARK_500": "#b0efbd",
     "PRIMARY_DARK_600": "#030909",
-    "PRIMARY_DARK_630": "#343843",
+    "PRIMARY_DARK_630": "#021414",
     "PRIMARY_DARK_700": "#030909",
     "PRIMARY_DARK_800": "#030909",
     "BRAND_NEW": "#b0efbd",
@@ -151,8 +151,8 @@
     "CHAT_GREY": "#b0efbd"
   },
   "background": {
-    "blur": 0.2,
-    "url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.nK2I3nxqJP8sbKWmLNBozgHaNJ%26pid%3DApi&f=1&ipt=5fad336397f0067c4062cb1635b7487ff1f3595c39a5b31d3e610364f619e74b&ipo=images",
+    "blur": 0.4,
+    "url": "https://media.discordapp.net/attachments/1087507373704368258/1144482440614781088/image0.jpg",
     "alpha": 1.0
   }
 }
