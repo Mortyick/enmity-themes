@@ -1,7 +1,7 @@
   {
   "name": "RoyalUndella",
-  "description": "A somewhat pink and blue theme, with an anime girl on top of it.",
-  "version": "1.4",
+  "description": "A somewhat pink and blue theme, with an anime girl.",
+  "version": "1.6",
   "authors": [
     {
       "name": "mortyick",
@@ -38,7 +38,7 @@
       "#1e1e38"
     ],
     "INTERACTIVE_MUTED": [
-      "#211f2a",
+      "#3d3950",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
@@ -118,7 +118,7 @@
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
-      "#b6b6b6",
+      "#625c78",
       "#475d77"
     ],
     "TEXT_LINK": [
@@ -140,7 +140,7 @@
     "PRIMARY_DARK_500": "#697eab",
     "PRIMARY_DARK_600": "#2d2a3c",
     "PRIMARY_DARK_630": "#24212f",
-    "PRIMARY_DARK_700": "#353048",
+    "PRIMARY_DARK_700": "#282634",
     "PRIMARY_DARK_800": "#252234",
     "BRAND_NEW": "#848bb3",
     "STATUS_RED": "#c18ea4",
