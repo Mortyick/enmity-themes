@@ -2,10 +2,7 @@
 Some of the shitty themes i made for Enmity (Discord Client for iOS) 
 
 None of these themes work on light mode (because fuck light mode), some may be broken on some versions
-
-Use what you like, fork this shit if you want, do whatever with it.
-
-(don't mind the attitude)
+but my ass is lazy as hell so don't expect me to really fix anything lol
 
 Created by mortyick
 
@@ -212,5 +209,17 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Reflection.
 ```
 Preview:<br>
 ![](./background/ReflectPhoto.png)
+
+- - - -
+
+## Rose
+Roses, or some bullshit, for spooky month.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Rose  .json
+```
+Preview:<br>
+![](./background/Spooktoberism.png)
 
 - - - -
