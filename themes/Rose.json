@@ -1,0 +1,158 @@
+  {
+  "name": "Rose",
+  "description": "Roses, or some bullshit, for spooky month.",
+  "version": "1.6",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#242645",
+      "#23232d"
+    ],
+    "HEADER_SECONDARY": [
+      "#2a2649",
+      "#3d4858"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#1f1c38",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#29294c",
+      "#3d4858"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#342d4c",
+      "#1e1e38"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#282a4f",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1a182f",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1a182f",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1a182f",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1f1c33",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#242246",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1a1831",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#1d1b31",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1a182f",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1a182f",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#302948",
+      "#475d77"
+    ],
+    "TEXT_LINK": [
+      "#1a1831",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#0b0f1a",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#0e0e1a",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#bebee3",
+    "PRIMARY_DARK_500": "#697eab",
+    "PRIMARY_DARK_600": "#1f1d37",
+    "PRIMARY_DARK_630": "#211e3a",
+    "PRIMARY_DARK_700": "#17152c",
+    "PRIMARY_DARK_800": "#1b192a",
+    "BRAND_NEW": "#2b294b",
+    "STATUS_RED": "#2c375d",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#13151a"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/1113588620050309212/1166889140160303104/Spooktoberism.png",
+    "alpha": 1.0
+  }
+}
