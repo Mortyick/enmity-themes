@@ -217,7 +217,7 @@ Roses, or some bullshit, for spooky month.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Rose  .json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Rose.json
 ```
 Preview:<br>
 ![](./background/Spooktoberism.png)
