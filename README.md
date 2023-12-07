@@ -212,14 +212,14 @@ Preview:<br>
 
 - - - -
 
-## Rose
-Roses, or some bullshit, for spooky month.<br>
+## Grave
+Black and White wave, like what Zack Snyder envisioned.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Rose.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Grave.json
 ```
 Preview:<br>
-![](./background/Spooktoberism.png)
+![](./background/Kitagawa.png)
 
 - - - -
