@@ -193,7 +193,7 @@ Stars, in the sky, or something..<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/StartNight.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/StarNight.json
 ```
 Preview:<br>
 ![](./background/IDontCare.png)
