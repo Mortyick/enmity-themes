@@ -1,7 +1,7 @@
 {
   "name": "Rem",
   "description": "Rem Theme because why not!!",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "authors": [
     {
       "name": "mortyick",
@@ -46,7 +46,7 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
-      "#5f6596",
+      "#2b2f4f",
       "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
