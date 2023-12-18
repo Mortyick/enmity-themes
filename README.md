@@ -225,7 +225,7 @@ Preview:<br>
 - - - -
 
 ## Rem
-Rem Theme because why not!!<br>
+Rem Theme because why not!! (also credit to disctroyer1003 for the idea)<br>
 <br>
 Copy this URL and add to Enmity:
 ```
