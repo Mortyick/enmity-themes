@@ -225,13 +225,13 @@ Preview:<br>
 - - - -
 
 ## Rem
-Rem Theme because why not!!.<br>
+Rem Theme because why not!!<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/INSERTHERE
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Rem.json
 ```
 Preview:<br>
-![](./background/inserthere)
+![](./background/Remviewed.png)
 
 - - - -
