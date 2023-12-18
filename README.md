@@ -140,7 +140,7 @@ Preview:<br>
 
 - - - -
 
-## RoyalUndella
+## RoyalUndella (probably my best one)
 A somewhat pink and blue theme, with an anime girl on top of it.<br>
 <br>
 Copy this URL and add to Enmity:
@@ -221,5 +221,17 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Grave.json
 ```
 Preview:<br>
 ![](./background/Kitagawa.png)
+
+- - - -
+
+## Rem
+Rem Theme because why not!!.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/INSERTHERE
+```
+Preview:<br>
+![](./background/inserthere)
 
 - - - -
