@@ -4,6 +4,8 @@ Some of the shitty themes i made for Enmity (Discord Client for iOS)
 None of these themes work on light mode (because fuck light mode), some may be broken on some versions
 but my ass is lazy as hell so don't expect me to really fix anything lol
 
+(update: these may or may not work on the new UI, being the redesign everyone hates, if it doesn't work as intended, then look up how to disable the new ui)
+
 Created by mortyick
 
 - - - -
