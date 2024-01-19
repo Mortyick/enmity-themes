@@ -246,6 +246,6 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Kyoto.json
 ```
 Preview:<br>
-![](./background/IMG_9230.PNG)
+![](./background/IMG_9230.jpeg)
 
 - - - -
