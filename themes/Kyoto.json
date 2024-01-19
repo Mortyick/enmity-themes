@@ -1,0 +1,154 @@
+  {
+  "name": "Kyoto",
+  "description": "Sunrise in Kyoto!",
+  "version": "1.3",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#c96d77",
+      "#23232d"
+    ],
+    "HEADER_SECONDARY": [
+      "#dd8a6e",
+      "#3d4858"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#c96d77",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#dd8a6e",
+      "#3d4858"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#bd89bb",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#d483a0",
+      "#1e1e38"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#362e45",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#4f4166",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#4f4166",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#4f4166",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#3c334c",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#e49c91",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#322944",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#322944",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#4f4166",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#4f4166",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#a55974",
+      "#475d77"
+    ],
+    "TEXT_LINK": [
+      "#c792ba",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#dd8a6e",
+    "PRIMARY_DARK_360": "#cdb1f6",
+    "PRIMARY_DARK_400": "#e3bedb",
+    "PRIMARY_DARK_500": "#bb8abe",
+    "PRIMARY_DARK_600": "#3c334c",
+    "PRIMARY_DARK_630": "#3e3451",
+    "PRIMARY_DARK_700": "#30273f",
+    "PRIMARY_DARK_800": "#342e4f",
+    "BRAND_NEW": "#e78576",
+    "STATUS_RED": "#c18ea4",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#c18ea4"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#3c334c"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://images.unsplash.com/photo-1512692723619-8b3e68365c9c?ixlib=rb-4.0.3",
+    "alpha": 1.0
+  }
+}
