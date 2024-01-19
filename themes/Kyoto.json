@@ -1,7 +1,7 @@
   {
   "name": "Kyoto",
   "description": "Sunrise in Kyoto!",
-  "version": "1.3",
+  "version": "1.4",
   "authors": [
     {
       "name": "mortyick",
@@ -42,7 +42,7 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#4f4166",
+      "#342e4f",
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
