@@ -1,0 +1,155 @@
+{
+  "name": "Bocchi",
+  "description": "Bocchi The Rock on Enmity!",
+  "version": "1.5",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#f387a9"
+    ],
+    "HEADER_PRIMARY": [
+      "#FBFBFB",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#B6B6B6",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#735252",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#ececec",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#cb597d",
+      "#f5f5f5"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#f387a9",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#e5678f",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#f387a9",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#fab0c8",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#cb597d",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#e5678f",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#ea9db5",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#f387a9",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#f387a9",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#fde7e7",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#d2b9b9",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#ed3846",
+    "PRIMARY_DARK_400": "#fde7e7",
+    "PRIMARY_DARK_500": "#ea9db5",
+    "PRIMARY_DARK_600": "#fab0c8",
+    "PRIMARY_DARK_630": "transparent",
+    "PRIMARY_DARK_700": "transparent",
+    "PRIMARY_DARK_800": "#ea9db5",
+    "PRIMARY_DARK_900": "#090909",
+    "BRAND_NEW": "#fccedd"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#fab0c8"
+  },
+  "background": {
+    "blur": 6.0,
+    "url": "https://w.wallhaven.cc/full/jx/wallhaven-jx357q.jpg",
+    "alpha": 1.0
+  }
+}
