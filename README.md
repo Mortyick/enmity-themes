@@ -248,3 +248,15 @@ Preview:<br>
 ![](./background/IMG_9230.jpeg)
 
 - - - -
+
+## Spells
+Witches, and some fantasy art.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Spells.json
+```
+Preview:<br>
+![](./background/IMG_9933.jpeg)
+
+- - - -
