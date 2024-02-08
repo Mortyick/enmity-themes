@@ -1,0 +1,155 @@
+{
+  "name": "Spells",
+  "description": "Witches, and some fantasy art.",
+  "version": "1.5",
+  "authors": [
+    {
+      "name": "mortyick",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#173654"
+    ],
+    "HEADER_PRIMARY": [
+      "#FBFBFB",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#B6B6B6",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#1a4b6f",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#126590",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#275477",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#1e5f91",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#08263d",
+      "#f5f5f5"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0c2f4a",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#072d4b",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#173654",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0a2c46",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#1c4c70",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#072d4b",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#154366",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#103457",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#173654",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#196199",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#275476",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#1e5076",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#3d8cbd",
+      "#000000"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#2d6b98",
+    "PRIMARY_DARK_400": "#fde7e7",
+    "PRIMARY_DARK_500": "#154366",
+    "PRIMARY_DARK_600": "#133b5a",
+    "PRIMARY_DARK_630": "#0f3b5c",
+    "PRIMARY_DARK_700": "#0e2a41",
+    "PRIMARY_DARK_800": "#154366",
+    "PRIMARY_DARK_900": "#090909",
+    "BRAND_NEW": "#154f7b"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#133b5a"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://media.discordapp.net/attachments/866389568579043381/1205284061283618826/Maeigon.jpg",
+    "alpha": 1.0
+  }
+}
