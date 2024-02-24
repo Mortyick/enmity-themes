@@ -1,7 +1,7 @@
 {
   "name": "PhantomThieves",
   "description": "Phantom Thieves, on Enmity.",
-  "version": "1.1",
+  "version": "1.2",
   "authors": [
     {
       "name": "mortyick",
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.0,
-    "url": "https://media.discordapp.net/attachments/1028083402601152552/1076715527801683968/Phentom.png",
+    "url": "https://files.catbox.moe/464ybi.jpeg",
     "alpha": 1.0
   }
 }
