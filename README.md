@@ -82,7 +82,7 @@ Preview:<br>
 - - - -
 
 ## Kita (Bocchi The Rock)
-A Kita theme.<br>
+A Kita theme. (you might wanna use this on flowercord or change BACKGROUND_PRIMARY or text colors)<br>
 <br>
 Copy this URL and add to Enmity:
 ```
