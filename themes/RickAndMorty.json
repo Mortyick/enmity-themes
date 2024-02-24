@@ -1,7 +1,7 @@
   {
   "name": "RickAndMorty",
   "description": "A Rick and Morty theme for Enmity.",
-  "version": "1.2",
+  "version": "1.3",
   "authors": [
     {
       "name": "mortyick",
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://media.discordapp.net/attachments/1023298825596719227/1069836288427036712/iu.png",
+    "url": "https://files.catbox.moe/n4lzhj.png",
     "alpha": 1.0
   }
 }
