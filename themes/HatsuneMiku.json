@@ -1,7 +1,7 @@
   {
   "name": "HatsuneMiku",
   "description": "Hatsune Miku!!.",
-  "version": "1.7",
+  "version": "1.8",
   "authors": [
     {
       "name": "mortyick",
@@ -152,7 +152,7 @@
   },
   "background": {
     "blur": 0.9,
-    "url": "https://media.discordapp.net/attachments/1041868029191016461/1071656128649371668/iu.png",
+    "url": "https://files.catbox.moe/1b3a3w.jpeg",
     "alpha": 1.0
   }
 }
