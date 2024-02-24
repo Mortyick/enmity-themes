@@ -1,7 +1,7 @@
 {
   "name": "Kita",
   "description": "A Kita Theme.",
-  "version": "1.5",
+  "version": "1.6",
   "authors": [
     {
       "name": "mortyick",
@@ -97,7 +97,7 @@
       "hsla(214, 9.9%, 50.4%, 0.24)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
+      "#db1c10",
       "hsla(240, 7.7%, 2.5%, 0.08)"
     ],
     "SCROLLBAR_THIN_THUMB": [
@@ -105,7 +105,7 @@
       "hsla(217, 7.6%, 33.5%, 0.3)"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "transparent",
+      "c3190e",
       "hsla(0, 0%, 0%, 0)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
@@ -138,8 +138,8 @@
     "PRIMARY_DARK_400": "#c77e7b",
     "PRIMARY_DARK_500": "#a13630",
     "PRIMARY_DARK_600": "#dc4e45",
-    "PRIMARY_DARK_630": "transparent",
-    "PRIMARY_DARK_700": "transparent",
+    "PRIMARY_DARK_630": "#bf3f36",
+    "PRIMARY_DARK_700": "#c3190e",
     "PRIMARY_DARK_800": "#a13630",
     "PRIMARY_DARK_900": "#090909",
     "BRAND_NEW": "#ff7b7b"
@@ -148,8 +148,8 @@
     "CHAT_GREY": "#dc4e45"
   },
   "background": {
-    "blur": 6.0,
-    "url": "https://media.discordapp.net/attachments/1028083402601152552/1077063785531052102/sweetdeath.jpg",
+    "blur": 3.0,
+    "url": "https://files.catbox.moe/b3j9cg.jpeg",
     "alpha": 1.0
   }
 }
