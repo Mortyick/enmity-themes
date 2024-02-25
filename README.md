@@ -1,5 +1,5 @@
 # enmity-themes
-Some of the shitty themes a bum (me) made (Discord Client for iOS) 
+Some themes i made for Enmity (Discord Client for iOS) 
 
 These are all made out of pure boredom, and also because why not.
 
