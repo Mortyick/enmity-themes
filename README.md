@@ -258,3 +258,15 @@ Preview:<br>
 ![](./background/IMG_9933.jpeg)
 
 - - - -
+
+## NightAffect
+Blue and pink, like always.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/NightAffect.json
+```
+Preview:<br>
+![](./background/IMG_1197.jpeg)
+
+- - - -
