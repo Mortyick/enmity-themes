@@ -1,7 +1,9 @@
 # enmity-themes
 Some themes i made for Enmity (Discord Client for iOS) 
 
-(None of these were intended to work on light mode or the new UI)
+(None of these were intended to work on light mode or any version of discord that doesnt have the ancient UI anymore)
+
+I have no plan on fixing or making any themes for the current UI and Enmity versions, at least not until V3 comes out (because im an asshole sorry)
 
 Created by mortyick
 
