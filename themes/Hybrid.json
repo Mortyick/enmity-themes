@@ -259,11 +259,11 @@
 
     "background": {
         "blur": 0.3,
-        "url": "https://media.discordapp.net/attachments/733051861203943445/1255633529728139344/AnotherAttempt.jpg?ex=667dd75a&is=667c85da&hm=21e75a7411c8226e423e2e27cfefc76baf201ab9c0518d4aa425574ebeb256fa&",
+        "url": "https://files.catbox.moe/ek06y4.jpg",
         "alpha": 0.8
         },
         "plus":{
-       "version":"1.1",
+       "version":"1.2",
        "mentionLineColor": "#90b7dd",
        
   },
