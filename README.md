@@ -3,7 +3,7 @@ Some themes i made for Enmity (Discord Client for iOS)
 
 (None of these were intended to work on light mode or any version of discord that doesnt have the ancient UI anymore)
 
-I have no current plans for now, so you probably wont see anything new here for a while. (maybe when v3 comes out you will)
+One theme here supports modern Discord, and I don't plan on making more for now until v3 comes out.
 
 Created by mortyick
 
@@ -270,5 +270,17 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/NightAffect
 ```
 Preview:<br>
 ![](./background/IMG_1197.jpeg)
+
+- - - -
+
+## Hybrid (New UI Theme)
+Cloudy blues.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Hybrid.json
+```
+Preview:<br>
+![](./background/Hybrid.png)
 
 - - - -
