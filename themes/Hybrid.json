@@ -177,7 +177,7 @@
     "PLUM_15": "#323658",
     "PLUM_16": "#5f75a4",
     "PLUM_17": "#8995d3",
-    "PLUM_18": "#4d6d88",
+    "PLUM_18": "#4d6d8820",
     "PLUM_19": "#6087ad",
     "PLUM_20": "#192844",
     "PLUM_21": "#1a263b",
@@ -235,7 +235,8 @@
     "YELLOW_160": "#f6c177",
     "YELLOW_200": "#f6c177",
     "YELLOW_230": "#f6c177",
-    "YELLOW_260": "#f6c177",
+    "YELLOW_260": "#90b7dd",
+    "YELLOW_300": "#90b7dd",
     "YELLOW_330": "#f6c177",
     "YELLOW_345": "#f6c177",
     "YELLOW_360": "#f6c177",
@@ -263,8 +264,8 @@
         "alpha": 0.8
         },
         "plus":{
-       "version":"1.2",
-       "mentionLineColor": "#90b7dd",
+       "version":"1.4",
+       "mentionLineColor": "#d698c0",
        
   },
     "spec": 2
