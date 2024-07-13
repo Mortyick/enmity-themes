@@ -1,0 +1,270 @@
+{
+    "name": "Orchid",
+    "description": "Someone dimmed the lights.",
+    "authors": [
+  
+        {
+            "name": "mortyick",
+            "id": "705853948052897813"
+          
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#f3bae5"
+        ],
+        "HEADER_SECONDARY": [
+            "#e1a9cf"
+        ],
+        "TEXT_NORMAL": [
+            "#ebe3f7"
+        ],
+        "TEXT_MUTED": [
+            "#d07cb4"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#dd9cb4"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#5070a7"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#fce3f8"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#5b5978"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0e1623"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0f1221"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#20253c"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#171a30"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#e090bb"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0f1725"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#151c29"
+        ],
+        "BG_BASE_TERTIARY": [
+          "#151b2a"
+      ],
+      "BG_BASE_SECONDARY": [
+           "#131927"
+    ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#121929"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#121825"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#7386a7"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#323953"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#2a324e45"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#39455a"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#0e1520"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#30445f"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#8aa6db"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#8aa6db"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#d89dd5"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c565a3"
+        ],
+        "TEXT_LINK": [
+            "#ec97ba"
+        ],
+        "TEXT_DANGER": [
+            "#b75057"
+        ],
+        "KEYBOARD": [
+            "#151c32"
+        ],
+        "CHANNEL_ICON": [
+            "#28364d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#152138"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#2c384a"
+        ],
+        "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": [
+            "#bf7aa7"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#ebe3f7"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#0e1622"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#211f38"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#ed99cb"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#0c121c"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#eb83b3"
+        ],
+        "BORDER_FAINT": [
+            "#40446b"
+        ],
+        "BG_BACKDROP": [
+            "transparent"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#d38cb7",
+        "PRIMARY_100": "#90b4eb",
+        "PRIMARY_200": "#e496ca",
+        "PRIMARY_230": "#e496ca",
+        "PRIMARY_300": "#ed99ae",
+        "PRIMARY_360": "#497497",
+        "PRIMARY_400": "#ed99ae",
+        "PRIMARY_600": "#131727",
+        "PRIMARY_630": "#171a2b",
+        "PRIMARY_645": "#304254",
+        "PRIMARY_660": "#6764a6",
+        "PRIMARY_700": "#252f42",
+        "PRIMARY_800": "#7488ad",
+        "BRAND_260": "#ee92b4",
+        "BRAND_360": "#e496ca",
+        "BRAND_500": "#e884a9",
+        "BRAND_560": "#ed99ae",
+        "YELLOW_300": "#D2B7AA",
+        "GREEN_600": "#648db8",
+        "RED_400": "#5d63b2",
+        "WHITE_500": "#e5eff7",
+        "PLUM_1": "#f8a8c7",
+    "PLUM_10": "#9b8eb0",
+    "PLUM_11": "#282b47",
+    "PLUM_13": "#d480b2",
+    "PLUM_15": "#282b47",
+    "PLUM_16": "#27364d",
+    "PLUM_17": "#25293e",
+    "PLUM_18": "#4d6d8820",
+    "PLUM_19": "#505d8325",
+    "PLUM_20": "#0f1827",
+    "PLUM_21": "#1a263b",
+    "PLUM_22": "#282b47",
+    "PLUM_24": "#131e30",
+    "PLUM_25": "#92d1c3",
+    "PLUM_3": "#6989c6",
+    "PLUM_4": "#31748f",
+    "PLUM_6": "#ffe4f9",
+    "PLUM_9": "#efa5c7",
+    "GREEN_100": "#5993a8",
+    "GREEN_130": "#5993a8",
+    "GREEN_160": "#5993a8",
+    "GREEN_200": "#5993a8",
+    "GREEN_230": "#5993a8",
+    "GREEN_260": "#5993a8",
+    "GREEN_300": "#5993a8",
+    "GREEN_330": "#5993a8",
+    "GREEN_345": "#5993a8",
+    "GREEN_360": "#d491c4",
+    "GREEN_400": "#5993a8",
+    "GREEN_430": "#5993a8",
+    "GREEN_460": "#5993a8",
+    "GREEN_500": "#5993a8",
+    "GREEN_530": "#5993a8",
+    "GREEN_560": "#5993a8",
+    "GREEN_630": "#5993a8",
+    "GREEN_660": "#5993a8",
+    "GREEN_700": "#5993a8",
+    "GREEN_730": "#5993a8",
+    "GREEN_760": "#5993a8",
+    "GREEN_800": "#5993a8",
+    "GREEN_830": "#5993a8",
+    "GREEN_860": "#5993a8",
+    "GREEN_900": "#5993a8",
+    "GUILD_BOOSTING_PINK": "#709ce1",
+    "GUILD_BOOSTING_PURPLE": "#c4a7e7",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
+    "RED_260": "#5e659d",
+    "RED_300": "#5e659d",
+    "RED_330": "#5e659d",
+    "RED_345": "#5e659d",
+    "RED_360": "#5e659d",
+    "RED_430": "#5e659d",
+    "RED_460": "#5e659d",
+    "RED_500": "#5e659d",
+    "RED_530": "#5e659d",
+    "RED_560": "#5e659d",
+    "RED_600": "#5e659d",
+    "RED_630": "#5e659d",
+    "RED_660": "#5e659d",
+    "RED_700": "#5e659d",
+    "YELLOW_100": "#f6c177",
+    "YELLOW_130": "#f6c177",
+    "YELLOW_160": "#f6c177",
+    "YELLOW_200": "#f6c177",
+    "YELLOW_230": "#f6c177",
+    "YELLOW_260": "#90b7dd",
+    "YELLOW_300": "#90b7dd",
+    "YELLOW_330": "#f6c177",
+    "YELLOW_345": "#f6c177",
+    "YELLOW_360": "#f6c177",
+    "YELLOW_400": "#f6c177",
+    "YELLOW_430": "#f6c177",
+    "YELLOW_460": "#f6c177",
+    "YELLOW_500": "#f6c177",
+    "YELLOW_530": "#f6c177",
+    "YELLOW_560": "#f6c177",
+    "YELLOW_600": "#6790d0",
+    "YELLOW_630": "#f6c177",
+    "YELLOW_660": "#f6c177",
+    "YELLOW_700": "#f6c177",
+    "YELLOW_730": "#f6c177",
+    "YELLOW_760": "#f6c177",
+    "YELLOW_800": "#f6c177",
+    "YELLOW_830": "#f6c177",
+    "YELLOW_860": "#f6c177",
+    "YELLOW_900": "#f6c177"
+    },
+
+    "background": {
+        "blur": 0.3,
+        "url": "https://media.discordapp.net/attachments/733051861203943445/1261542619188695091/cachedImage.png?ex=6693569e&is=6692051e&hm=abb11010f53872a100eae3ad24ad4d325277a43ff6808d0d6bb18c81dfdd7be0&",
+        "alpha": 0.8
+        },
+        "plus":{
+       "version":"1.5",
+       "mentionLineColor": "#f3bae5",
+       
+  },
+    "spec": 2
+  }
