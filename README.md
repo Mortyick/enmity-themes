@@ -281,6 +281,22 @@ Copy this URL and add to Enmity:
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Hybrid.json
 ```
 Preview:<br>
+
+
 ![](./background/Hybrid.png)
+
+- - - -
+
+## Orchid
+Someone dimmed the lights.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Orchid.json
+```
+Preview:<br>
+
+
+![](./background/Orchid.png)
 
 - - - -
