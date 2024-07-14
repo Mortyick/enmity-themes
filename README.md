@@ -297,6 +297,6 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Rozsa.json
 Preview:<br>
 
 
-![](./background/Rozsa.png)
+![](./background/Rosa.png)
 
 - - - -
