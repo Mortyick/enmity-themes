@@ -287,16 +287,16 @@ Preview:<br>
 
 - - - -
 
-## Orchid
+## Rozsa
 Someone dimmed the lights.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Orchid.json
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Rozsa.json
 ```
 Preview:<br>
 
 
-![](./background/Orchid.png)
+![](./background/Rozsa.png)
 
 - - - -
