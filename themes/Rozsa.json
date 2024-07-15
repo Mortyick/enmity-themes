@@ -258,7 +258,8 @@
       "alpha":0.8
    },
    "plus":{
-      "version":"1.7",
+      "version":"0",
       "mentionLineColor":"#f3bae540"
+      "iconpack": "rosiecord-plumpy"
    }
 }
