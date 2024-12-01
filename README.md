@@ -299,3 +299,15 @@ Preview:<br>
 ![](./background/Rosa.png)
 
 - - - -
+
+## Mikoto
+Placeholder text here blahblahblah<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Mikoto.json
+```
+Preview:<br>
+![](./background/notmisaka.png)
+
+- - - -
