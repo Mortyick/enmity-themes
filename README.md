@@ -1,10 +1,9 @@
 # enmity-themes
-Some themes i made for Enmity (Discord Client for iOS) 
-Most of these are for older versions that have the old ui, but idk if any of them work properly on versions past like 180
-(None of these were intended to work on light mode)
-thx to a few others in ze enmoty dikcor for some stuff (idk how to credit properly lol)
+Some crappy themes I made for Enmity (Discord Client for iOS) 
 
-Created by mortyick
+FYI: A lot of these are for older versions, scroll down for themes made for newer versions!
+
+Created by Mortyick
 
 - - - -
 
