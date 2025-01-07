@@ -1,7 +1,7 @@
   {
   "name": "BlackNight",
   "description": "A black night.",
-  "version": "1.4",
+  "version": "1.5",
   "authors": [
     {
       "name": "mortyick",
@@ -27,7 +27,7 @@
     ],
     "INTERACTIVE_NORMAL": [
       "#ffffff",
-      "#3d4858  "
+      "#3d4858"
     ],
     "INTERACTIVE_HOVER": [
       "#dcddde",
@@ -151,8 +151,8 @@
     "CHAT_GREY": "#0c0c0c"
   },
   "background": {
-    "blur": 0.5,
-    "url": "https://raw.githubusercontent.com/Mortyick/enmitythemebgs/main/897158BF-0C57-454B-9892-39B02AEC5E79.jpeg",
+    "blur": 0.4,
+    "url": "https://files.catbox.moe/rxq42s.jpeg",
     "alpha": 1.0
   }
 }
