@@ -120,7 +120,7 @@ Preview:<br>
 - - - -
 
 ## Mikoto
-Placeholder text here blahblahblah<br>
+Late snowy theme for Chinese New Year.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
