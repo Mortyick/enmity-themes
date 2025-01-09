@@ -1,9 +1,9 @@
 # enmity-themes
-Some crappy themes I made for Enmity (Discord Client for iOS) 
+poorly made json file for dicor
 
-FYI: A lot of these are for older versions, scroll down for themes made for newer versions!
+scroll down for themes made for newer versions!
 
-Created by Mortyick
+created by me lol-
 
 - - - -
 
