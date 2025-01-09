@@ -79,18 +79,6 @@ Preview:<br>
 
 - - - -
 
-## CyberpunkSHrine
-A cyberpunk-ish shrine, or not.<br>
-<br>
-Copy this URL and add to Enmity:
-```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/CyberpunkShrine.json
-```
-Preview:<br>
-![](./background/themepreview.png)
-
-- - - -
-
 ## StarNight
 Stars, in the sky, or something..<br>
 <br>
@@ -100,18 +88,6 @@ https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/StarNight.j
 ```
 Preview:<br>
 ![](./background/IDontCare.png)
-
-- - - -
-
-## NightAffect
-Blue and pink, like always.<br>
-<br>
-Copy this URL and add to Enmity:
-```
-https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/NightAffect.json
-```
-Preview:<br>
-![](./background/IMG_1197.jpeg)
 
 - - - -
 
