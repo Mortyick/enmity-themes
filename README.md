@@ -4,6 +4,7 @@ poorly made json file for dicor
 scroll down for themes made for newer versions!
 
 created by me lol-
+(for more check themes folder)
 
 - - - -
 
