@@ -121,13 +121,13 @@ Preview:<br>
 - - - -
 
 ## Mikoto
-Late snowy theme for Chinese New Year.<br>
+Late snowy theme.<br>
 <br>
 Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/Mikoto.json
 ```
 Preview:<br>
-![](./background/notmisaka.png)
+![](./background/showcase.png)
 
 - - - -
