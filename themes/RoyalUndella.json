@@ -38,7 +38,7 @@
       "#1e1e38"
     ],
     "INTERACTIVE_MUTED": [
-      "#3d3950",
+      "#413d56",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
@@ -62,7 +62,7 @@
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
-      "#211f2a",
+      "#242032",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -148,7 +148,7 @@
     "STATUS_YELLOW": "#c18ea4"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#13151a"
+    "CHAT_GREY": "#2c2a3c"
   },
   "background": {
     "blur": 0.1,
