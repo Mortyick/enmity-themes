@@ -1,9 +1,8 @@
 # enmity-themes
-poorly made json file for dicor
+I probably won't make new themes until Unbound releases or if I get that bored.
 
-scroll down for themes made for newer versions!
+scroll down for themes made for newer versions*
 
-created by me lol-
 (for more check themes folder)
 
 - - - -
