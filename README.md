@@ -1,5 +1,5 @@
 # enmity-themes
-I probably won't make new themes until Unbound releases or if I get that bored.
+this repo may or may not be EoL, since i dont have plans on making new themes for this deadass client
 
 scroll down for themes made for newer versions*
 
