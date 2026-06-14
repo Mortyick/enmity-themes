@@ -1,5 +1,5 @@
 # enmity-themes
-this repo may or may not be EoL, since i dont have plans on making new themes for this deadass client
+i dont have plans on making new themes (at least for enmity since its discontinued)
 
 scroll down for themes made for newer versions*
 
