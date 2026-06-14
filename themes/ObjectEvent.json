@@ -82,7 +82,7 @@
             "#352a2a"
         ],
         "CARD_SECONDARY_BG": [
-            "#242020"
+            "#261f1f"
         ],
         "CHANNEL_ICON": [
             "#B4B4B4"
@@ -121,13 +121,13 @@
             "#cf9da8"
         ],
         "TEXT_LINK": [
-            "#08c042"
+            "#a89a9a"
         ],
         "TEXT_NORMAL": [
             "#F0F0F0"
         ],
         "TEXT_MUTED": [
-            "#7e94a8"
+            "#a89a9a"
         ],
         "TEXT_PRIMARY": [
             "#e049bf"
@@ -169,7 +169,7 @@
             "#1f1c1c"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#201e1e"
+            "#201a1a"
         ],
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
             "#1d1818"
@@ -280,24 +280,24 @@
         "PRIMARY_730": "#161212",
         "PRIMARY_800": "#191616",
         "PLUM_10": "#847b7b",
-        "PLUM_15": "#c0512f",
+        "PLUM_15": "#2c2222",
         "PLUM_16": "#201a1a",
         "PLUM_17": "#161212",
         "PLUM_18": "#1d1717",
         "PLUM_20": "#161212",
         "PLUM_3": "#ffffff",
         "PLUM_4": "#D8D8D8",
-        "PLUM_6": "#8cc069",
+        "PLUM_6": "#513f3f",
         "BRAND_200": "#D8D8D8",
         "BRAND_250": "#D0D0D0",
         "BRAND_260": "#1893c0",
         "BRAND_300": "#BCBCBC",
         "BRAND_330": "#B8B8B8",
         "BRAND_345": "#B2B2B2",
-        "BRAND_360": "#c0af30",
+        "BRAND_360": "#dcb8b8",
         "BRAND_400": "#ABABAB",
         "BRAND_430": "#A8A8A8",
-        "BRAND_500": "#4356c0",
+        "BRAND_500": "#352525",
         "BRAND_530": "#9A9A9A",
         "BRAND_560": "#6F6F6F",
         "BRAND_600": "#6A6A6A",
