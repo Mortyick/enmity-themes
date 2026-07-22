@@ -67,7 +67,7 @@ Preview:<br>
 
 - - - -
 
-## RoyalUndella (probably my best one)
+## RoyalUndella
 A somewhat pink and blue theme, with an anime girl on top of it.<br>
 <br>
 Copy this URL and add to Enmity:
