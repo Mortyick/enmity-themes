@@ -1,6 +1,6 @@
 {
     "name": "ObjectEvent",
-    "description": "a work in progress",
+    "description": "still a work in progress",
     "version": "1.0",
     "authors": [
         {
@@ -421,7 +421,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": ""
+        "url": "https://cdn.discordapp.com/attachments/1059638072603574282/1128912428047016047/PastelityBG.png?ex=6a60f5e1&is=6a5fa461&hm=08f544ca3637657e01cdd51354aaddfd4fc3dfbd6c70fbde84a67428ec85d27f&"
     },
     "plus": {
         "version": "0",
