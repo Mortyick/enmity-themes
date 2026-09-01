@@ -229,7 +229,7 @@
             "#241d1d"
         ],
         "PANEL_BG": [
-            "#ab4445"
+            "#292538"
         ],
         "BACKGROUND_SURFACE_HIGH": [
             "#727faf"
@@ -272,18 +272,18 @@
         "PRIMARY_460": "#352a2a",
         "PRIMARY_500": "#766767",
         "PRIMARY_530": "#584c4c",
-        "PRIMARY_600": "#1d1717",
+        "PRIMARY_600": "#b0e792",
         "PRIMARY_630": "#f307df",
         "PRIMARY_645": "#2282ff",
         "PRIMARY_660": "#1a1515",
-        "PRIMARY_700": "#1d1717",
+        "PRIMARY_700": "#3aa7e2",
         "PRIMARY_730": "#0004f3",
         "PRIMARY_800": "#191616",
         "PLUM_10": "#847b7b",
         "PLUM_15": "#2c2222",
         "PLUM_16": "#dfb3c8",
         "PLUM_17": "#211e2e",
-        "PLUM_18": "#1d1717",
+        "PLUM_18": "#ffffff",
         "PLUM_20": "#292538",
         "PLUM_3": "#ffffff",
         "PLUM_4": "#D8D8D8",
