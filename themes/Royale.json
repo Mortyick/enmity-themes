@@ -31,7 +31,7 @@
             "#ffffff20"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#352a2a"
+            "#de69d2"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#a3a3a3"
@@ -79,7 +79,7 @@
             "#ffffff"
         ],
         "CARD_PRIMARY_PRESSED_BG": [
-            "#352a2a"
+            "#f76f78"
         ],
         "CARD_SECONDARY_BG": [
             "#261f1f"
@@ -91,7 +91,7 @@
             "#B5B5B5"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#352a2a"
+            "#3c827d"
         ],
         "CHAT_BACKGROUND": [
             "#8460f0"
@@ -154,7 +154,7 @@
             "#1a1515"
         ],
         "BG_MOD_FAINT": [
-            "#352a2a"
+            "#b3884b"
         ],
         "BG_MOD_STRONG": [
             "#dfea0a"
@@ -196,7 +196,7 @@
             "#F0F0F0"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#352a2a"
+            "#8cb03f"
         ],
         "MENTION_FOREGROUND": [
             "#A8A8A8"
@@ -223,7 +223,7 @@
             "#292538"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
-            "#352a2a"
+            "#333759"
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#272336"
@@ -269,7 +269,7 @@
         "PRIMARY_330": "#D8D8D8",
         "PRIMARY_360": "#E0E0E0",
         "PRIMARY_400": "#E0E0E0",
-        "PRIMARY_460": "#352a2a",
+        "PRIMARY_460": "#352123",
         "PRIMARY_500": "#766767",
         "PRIMARY_530": "#584c4c",
         "PRIMARY_600": "#464358",
