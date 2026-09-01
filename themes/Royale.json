@@ -61,7 +61,7 @@
             "#1a1919"
         ],
         "BG_SURFACE_RAISED": [
-            "#191717"
+            "#1e1c25"
         ],
         "BACKGROUND_BASE_LOW": [
             "#2c2a3c"
@@ -345,7 +345,7 @@
         "GREEN_300": "#B8B8B8",
         "GREEN_330": "#B0B0B0",
         "GREEN_345": "#69ab4c",
-        "GREEN_360": "#aef9ae",
+        "GREEN_360": "#87a2de",
         "GREEN_400": "#d9b3b3",
         "GREEN_430": "#989898",
         "GREEN_460": "#929292",
