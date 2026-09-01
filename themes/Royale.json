@@ -70,7 +70,7 @@
             "#2d2a3c"
         ],
         "BACKGROUND_BASE_LOWER": [
-            "#211f2a"
+            "#272433"
         ],
         "BORDER_FAINT": [
             "#cfd1d0"
@@ -169,7 +169,7 @@
             "#1f1c1c"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#de97aa"
+            "#848bb3"
         ],
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
             "#1d1818"
@@ -220,22 +220,22 @@
             "#2f2c3f"
         ],
         "MOBILE_ACTIONSHEET_GRADIENT_BACKGROUND_DEFAULT": [
-            "#241d1d"
+            "#193533"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
             "#352a2a"
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
-            "#241d1d"
+            "#281d35"
         ],
         "PANEL_BG": [
             "#292538"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#727faf"
+            "#423e58"
         ],
         "TAB_BAR_BACKGROUND": [
-            "#241d1d"
+            "#283520"
         ],
         "MESSAGE_PREVIEW_NORMAL": [
             "#908484"
