@@ -13,7 +13,7 @@
             "#968cc8"
         ],
         "ACTION_SHEET_GRADIENT_BG": [
-            "#7fff62"
+            "#ffffff"
         ],
         "ANDROID_RIPPLE": [
             "#ffffff"
@@ -421,7 +421,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": ""
+        "url": "https://raw.githubusercontent.com/Mortyick/enmity-themes/main/background/backgruundig.png"
     },
     "plus": {
         "version": "0",
