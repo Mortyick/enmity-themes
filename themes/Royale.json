@@ -10,7 +10,7 @@
     ],
     "semanticColors": {
         "APP_FRAME_BORDER": [
-            "#968cc8"
+            "#8a94c7"
         ],
         "ACTION_SHEET_GRADIENT_BG": [
             "#ffffff"
@@ -211,7 +211,7 @@
             "#221f2f"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
-            "#2a2736"
+            "#262333"
         ],
         "INPUT_BORDER_ACTIVE": [
             "#C4C4C4"
@@ -223,7 +223,7 @@
             "#292538"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
-            "#333759"
+            "#70779e"
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#272336"
