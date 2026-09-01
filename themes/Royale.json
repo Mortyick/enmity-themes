@@ -76,7 +76,7 @@
             "#cfd1d0"
         ],
         "CARD_PRIMARY_BG": [
-            "#009736"
+            "#ffffff"
         ],
         "CARD_PRIMARY_PRESSED_BG": [
             "#352a2a"
@@ -421,7 +421,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Mortyick/enmity-themes/main/background/backgruundig.png"
+        "url": ""
     },
     "plus": {
         "version": "0",
