@@ -97,7 +97,7 @@
             "#8460f0"
         ],
         "EMBED_BACKGROUND": [
-            "#282020"
+            "#7b8fba75"
         ],
         "HEADER_PRIMARY": [
             "#E3E3E3"
@@ -121,19 +121,19 @@
             "#cf9da8"
         ],
         "TEXT_LINK": [
-            "#a89a9a"
+            "#b8cae1"
         ],
         "TEXT_NORMAL": [
             "#F0F0F0"
         ],
         "TEXT_MUTED": [
-            "#a89a9a"
+            "#8f9aa8"
         ],
         "TEXT_PRIMARY": [
             "#e049bf"
         ],
         "TEXT_WARNING": [
-            "#a8927f"
+            "#a8888b"
         ],
         "TEXT_DANGER": [
             "#904444"
@@ -172,22 +172,22 @@
             "#848bb3"
         ],
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
-            "#1d1818"
+            "#5f739f"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#352a2a"
+            "#7262a0"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
-            "#201b1b"
+            "#40375a"
         ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [
-            "#383030"
+            "#635f9d"
         ],
         "CONTROL_SECONDARY_BORDER_ACTIVE": [
-            "#251f1f"
+            "#3c3b62"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#241f1f"
+            "#292538"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#B4B4B4"
@@ -232,7 +232,7 @@
             "#292538"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#423e58"
+            "#302d42"
         ],
         "TAB_BAR_BACKGROUND": [
             "#283520"
@@ -280,8 +280,8 @@
         "PRIMARY_730": "#0004f3",
         "PRIMARY_800": "#191616",
         "PLUM_10": "#847b7b",
-        "PLUM_15": "#2c2222",
-        "PLUM_16": "#dfb3c8",
+        "PLUM_15": "#5e5a76"
+        "PLUM_16": "#9ba3d3",
         "PLUM_17": "#211e2e",
         "PLUM_18": "#343048",
         "PLUM_20": "#292538",
@@ -299,7 +299,7 @@
         "BRAND_430": "#9c7e7e",
         "BRAND_500": "#848bb3",
         "BRAND_530": "#749a5c",
-        "BRAND_560": "#7c7132",
+        "BRAND_560": "#4f6596",
         "BRAND_600": "#906b69",
         "BRAND_630": "#543b64",
         "BRAND_660": "#2b56a5",
