@@ -205,10 +205,10 @@
             "#343048"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-            "#2d7e1b"
+            "#292538"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
-            "#55357a"
+            "#221f2f"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
             "#2a2736"
@@ -229,10 +229,10 @@
             "#241d1d"
         ],
         "PANEL_BG": [
-            "#1d1717"
+            "#ab4445"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#1d1717"
+            "#727faf"
         ],
         "TAB_BAR_BACKGROUND": [
             "#241d1d"
