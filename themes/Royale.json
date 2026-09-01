@@ -153,6 +153,9 @@
         "BG_BASE_TERTIARY": [
             "#1a1515"
         ],
+        "HOME_BACKGROUND": [
+            "#302b42"
+        ],
         "BG_MOD_FAINT": [
             "#b3884b"
         ],
