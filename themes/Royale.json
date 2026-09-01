@@ -70,7 +70,7 @@
             "#191414"
         ],
         "BACKGROUND_BASE_LOWER": [
-            "#76eadd"
+            "#ffffff"
         ],
         "BORDER_FAINT": [
             "#cfd1d0"
@@ -282,7 +282,7 @@
         "PLUM_10": "#847b7b",
         "PLUM_15": "#2c2222",
         "PLUM_16": "#dfb3c8",
-        "PLUM_17": "#fc6a01",
+        "PLUM_17": "#211e2e",
         "PLUM_18": "#1d1717",
         "PLUM_20": "#8a86ff",
         "PLUM_3": "#ffffff",
