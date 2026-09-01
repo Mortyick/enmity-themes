@@ -82,7 +82,7 @@
             "#f76f78"
         ],
         "CARD_SECONDARY_BG": [
-            "#261f1f"
+            "#41435d"
         ],
         "CHANNEL_ICON": [
             "#B4B4B4"
@@ -109,7 +109,7 @@
             "#191414"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#dbb0b8"
+            "#b9b9db"
         ],
         "INTERACTIVE_HOVER": [
             "#C8C8C8"
@@ -241,7 +241,7 @@
             "#908484"
         ],
         "BACKGROUND_MESSAGE_AUTOMOD_HIGHLIGHTED": [
-            "#352828"
+            "#373a48"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
             "#292222"
@@ -250,13 +250,13 @@
             "#908484"
         ],
         "STATUS_WARNING_BACKGROUND": [
-            "#292323"
+            "#2d293f"
         ],
         "STATUS_WARNING_TEXT": [
             "#905b5b"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#291f1f"
+            "#2d293f"
         ],
         "STATUS_DANGER_TEXT": [
             "#904b4b"
@@ -276,10 +276,10 @@
         "PRIMARY_630": "#f307df",
         "PRIMARY_645": "#2282ff",
         "PRIMARY_660": "#1a1515",
-        "PRIMARY_700": "#3aa7e2",
+        "PRIMARY_700": "#323145",
         "PRIMARY_730": "#0004f3",
         "PRIMARY_800": "#191616",
-        "PLUM_10": "#847b7b",
+        "PLUM_10": "#6b6f85",
         "PLUM_15": "#5e5a76",
         "PLUM_16": "#9ba3d3",
         "PLUM_17": "#211e2e",
