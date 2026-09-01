@@ -202,13 +202,13 @@
             "#A8A8A8"
         ],
         "BACKGROUND_MOD_MUTED": [
-            "#b6383a"
+            "#343048"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-            "#1d1717"
+            "#2d7e1b"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
-            "#1d1717"
+            "#55357a"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
             "#2a2736"
