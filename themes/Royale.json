@@ -19,13 +19,13 @@
             "#ffffff"
         ],
         "BACKGROUND_ACCENT": [
-            "#c4c4c4"
+            "#b3b8c4"
         ],
         "BACKGROUND_MENTIONED": [
-            "#c098a120"
+            "#9aa9c020"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#c0919920"
+            "#94a1c020"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#ffffff20"
@@ -34,7 +34,7 @@
             "#de69d2"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#a3a3a3"
+            "#949aa3"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#ffffff05"
@@ -115,10 +115,10 @@
             "#C8C8C8"
         ],
         "INTERACTIVE_MUTED": [
-            "#9e8080"
+            "#7f8a9e"
         ],
         "INTERACTIVE_NORMAL": [
-            "#cf9da8"
+            "#9fa9cf"
         ],
         "TEXT_LINK": [
             "#b8cae1"
@@ -250,7 +250,7 @@
             "#292222"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#908484"
+            "#7e907d"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#2d293f"
@@ -287,6 +287,7 @@
         "PLUM_16": "#9ba3d3",
         "PLUM_17": "#211e2e",
         "PLUM_18": "#34304885",
+        "PLUM_19": "302b42",
         "PLUM_20": "#292538",
         "PLUM_21": "302b42",
         "PLUM_22": "302b42",
@@ -431,11 +432,11 @@
     "plus": {
         "version": "0",
         "iconpack": "solarduotone",
-        "mentionLineColor": "#c098a1",
+        "mentionLineColor": "#99a1c0",
         "customOverlays": true,
         "icons": {
             "ic_send": "#1c2024",
-            "ic_send__overlay": "#c098a1"
+            "ic_send__overlay": "#9c9ec0"
         }
     },
     "spec": 2
