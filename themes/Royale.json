@@ -13,10 +13,10 @@
             "#8a94c7"
         ],
         "ACTION_SHEET_GRADIENT_BG": [
-            "#ffffff"
+            "#81ba45"
         ],
         "ANDROID_RIPPLE": [
-            "#ffffff"
+            "#ffb4e8"
         ],
         "BACKGROUND_ACCENT": [
             "#b3b8c4"
@@ -76,7 +76,7 @@
             "#cfd1d0"
         ],
         "CARD_PRIMARY_BG": [
-            "#ffffff"
+            "#3d5aff"
         ],
         "CARD_PRIMARY_PRESSED_BG": [
             "#f76f78"
@@ -199,13 +199,13 @@
             "#F0F0F0"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#8cb03f"
+            "#342f48"
         ],
         "MENTION_FOREGROUND": [
             "#A8A8A8"
         ],
         "BACKGROUND_MOD_MUTED": [
-            "#343048"
+            "#34304850"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
             "#292538"
@@ -287,11 +287,11 @@
         "PLUM_16": "#9ba3d3",
         "PLUM_17": "#211e2e",
         "PLUM_18": "#34304885",
-        "PLUM_19": "302b42",
+        "PLUM_19": "#302b42",
         "PLUM_20": "#292538",
-        "PLUM_21": "302b42",
-        "PLUM_22": "302b42",
-        "PLUM_3": "#ffffff",
+        "PLUM_21": "#302b42",
+        "PLUM_22": "#302b42",
+        "PLUM_3": "#ff2125",
         "PLUM_4": "#D8D8D8",
         "PLUM_6": "#d1cfe2",
         "BRAND_200": "#D8D8D8",
@@ -300,7 +300,7 @@
         "BRAND_300": "#BCBCBC",
         "BRAND_330": "#B8B8B8",
         "BRAND_345": "#B2B2B2",
-        "BRAND_360": "#dcb8b8",
+        "BRAND_360": "#bfb8d8",
         "BRAND_400": "#69ab4c",
         "BRAND_430": "#9c7e7e",
         "BRAND_500": "#848bb3",
@@ -327,7 +327,7 @@
         "RED_345": "#bc4545",
         "RED_360": "#936767",
         "RED_400": "#a15b5b",
-        "RED_430": "#989898",
+        "RED_430": "#828ab6",
         "RED_460": "#929292",
         "RED_500": "#5b4645",
         "RED_530": "#868686",
@@ -338,7 +338,7 @@
         "RED_700": "#686868",
         "RED_730": "#626262",
         "RED_760": "#9b40d0",
-        "RED_800": "#565656",
+        "RED_800": "#4a455e",
         "RED_830": "#b4e70e",
         "RED_860": "#4A4A4A",
         "RED_900": "#444444",
@@ -352,7 +352,7 @@
         "GREEN_330": "#B0B0B0",
         "GREEN_345": "#69ab4c",
         "GREEN_360": "#87a2de",
-        "GREEN_400": "#d9b3b3",
+        "GREEN_400": "#adb7d9",
         "GREEN_430": "#828ab6",
         "GREEN_460": "#929292",
         "GREEN_500": "#8C8C8C",
@@ -364,7 +364,7 @@
         "GREEN_700": "#686868",
         "GREEN_730": "#626262",
         "GREEN_760": "#9b40d0",
-        "GREEN_800": "#565656",
+        "GREEN_800": "#4a455e",
         "GREEN_830": "#b4e70e",
         "GREEN_860": "#4A4A4A",
         "GREEN_900": "#444444",
@@ -381,8 +381,8 @@
         "ORANGE_330": "#B0B0B0",
         "ORANGE_345": "#69ab4c",
         "ORANGE_360": "#936767",
-        "ORANGE_400": "#d9b7b7",
-        "ORANGE_430": "#989898",
+        "ORANGE_400": "#b4b4d9",
+        "ORANGE_430": "#828ab6",
         "ORANGE_460": "#929292",
         "ORANGE_500": "#8C8C8C",
         "ORANGE_530": "#868686",
@@ -397,7 +397,7 @@
         "YELLOW_345": "#69ab4c",
         "YELLOW_360": "#936767",
         "YELLOW_400": "#c09581",
-        "YELLOW_430": "#989898",
+        "YELLOW_430": "#828ab6",
         "YELLOW_460": "#929292",
         "YELLOW_500": "#8C8C8C",
         "YELLOW_530": "#868686",
@@ -412,7 +412,7 @@
         "BLUE_345": "#69ab4c",
         "BLUE_360": "#936767",
         "BLUE_400": "#c09581",
-        "BLUE_430": "#989898",
+        "BLUE_430": "#828ab6",
         "BLUE_460": "#929292",
         "BLUE_500": "#8C8C8C",
         "BLUE_530": "#868686",
