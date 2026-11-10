@@ -1,5 +1,5 @@
 # enmity-themes
-i don’t have plans on making new themes for enmity in specific, but i may start making themes for kettu/rain instead.
+list of themes i made for a now EOL client over the course of 2 years (2023-2025)
 
 scroll down for themes made for newer versions*
 
